@@ -15,7 +15,9 @@ public class UdemyGitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Bom dia INferno kkkk");
+        System.out.println("Bom dia e Até quem fim o/");
+        System.out.println("Boa tarde! ");
+        
     }
     
 }
